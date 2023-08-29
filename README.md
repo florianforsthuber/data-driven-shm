@@ -1,7 +1,7 @@
 # Code Documentation
 
 This repository provides the important code files as part of the Master's Thesis "Physics-driven data generation for strain-based damage detection on the example of an aerospace sandwich structure", written at the *Institute of Structural Lightweight Design* at the JKU Linz.
-It is meant to serve as a documentation repository, it is not meant to provide a fully reproducible version of the whole project.
+Its sole purpose is to serve as a documentation repository, it is not meant to provide a fully reproducible version of the whole project.
 
 ## Content structure
 ### models/FEM_model
